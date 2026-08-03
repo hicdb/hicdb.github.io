@@ -1,8 +1,8 @@
 # HeatIndex
 
-广发纳指ETF热度指数看板 — 基于东方财富股吧讨论数据，量化市场情绪，动态可视化呈现。
+成都银行热度指数看板 — 基于东方财富股吧讨论数据，量化市场情绪，动态可视化呈现。
 
-在线地址：[caob23.github.io/HeatIndex](https://caob23.github.io/HeatIndex/)
+在线地址：[hicdb.github.io](https://hicdb.github.io/)
 
 ---
 

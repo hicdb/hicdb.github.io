@@ -1,13 +1,13 @@
 {
   "symbols": [
     {
-      "symbol": "159941",
-      "name": "广发纳指ETF",
-      "market": "sz",
-      "type": "ETF",
-      "region": "US",
-      "guba_code": "zsgjndx"
+      "symbol": "601838",
+      "name": "成都银行",
+      "market": "sh",
+      "type": "Stock",
+      "region": "CN",
+      "guba_code": "601838"
     }
   ],
-  "active": "159941"
+  "active": "601838"
 }
