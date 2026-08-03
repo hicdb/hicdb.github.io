@@ -5,7 +5,7 @@
   "weight_read": 0.4,
   "weight_reply": 0.6,
   "half_life_days": 7,
-  "denom_multiplier": 1.42,
+  "denom_multiplier": 1.35,
   "target_ceiling": 95,
   "auto_scale": true,
   "guba_max_pages": 30
