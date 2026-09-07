@@ -1,11 +1,11 @@
 {
-  "max_raw_score": 1336021.0370174446,
+  "max_raw_score": 1365797.426964166,
   "buzz_scale_min": 0,
   "buzz_scale_max": 100,
   "weight_read": 0.4,
   "weight_reply": 0.6,
   "half_life_days": 7,
-  "denom_multiplier": 1.28,
+  "denom_multiplier": 1.22,
   "target_ceiling": 95,
   "auto_scale": true,
   "guba_max_pages": 30
